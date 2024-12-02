@@ -1,0 +1,11 @@
+[package]
+name = "utils"
+edition.workspace = true
+version.workspace = true
+authors.workspace = true
+description.workspace = true
+
+[dependencies]
+reqwest = { workspace = true }
+tokio = { workspace = true }
+
